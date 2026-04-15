@@ -88,7 +88,7 @@ E-commerce-Data-Analysis/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-data-analysis.git
+git clone https://github.com/vaibhav708378/ecommerce-data-analysis.git
 ```
 
 2. Navigate to the project folder
