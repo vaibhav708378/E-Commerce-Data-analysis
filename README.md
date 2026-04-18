@@ -135,4 +135,4 @@ This project is open-source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 **Vaibhav**
-Student | Data & Software Enthusiast
+Student 
