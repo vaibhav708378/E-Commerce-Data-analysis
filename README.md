@@ -25,7 +25,7 @@ The project uses **Python and data analysis libraries** to clean, process, and v
 E-commerce-Data-Analysis/
 │
 ├── E-comerce.ipynb        # Jupyter Notebook containing the analysis
-├── Sample Data set/               # Dataset used for analysis (if included)
+├── Sample - Superstore.csv/               # Dataset used for analysis (if included)
 ├── images/                # Charts and visualizations
 └── README.md              # Project documentation
 ```
